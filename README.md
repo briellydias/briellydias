@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/briellydias">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=briellydias&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=briellydias&layout=compact&langs_count=7&theme=blueberry"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=briellydias&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=briellydias&layout=compact&langs_count=7&theme=blueberry"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Gaby-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
